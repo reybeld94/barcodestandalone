@@ -11,6 +11,8 @@ import utils.hook_listener as hook_listener
 from utils.hook_control import start_hook
 from utils.hook_listener import on_key
 import sys
+from client.services.status_monitor import status_monitor
+from client.services.api_client import api_client
 
 ctx = {
     "procesando": False,
@@ -72,7 +74,17 @@ def cerrar_app():
     sys.exit()
 
 if __name__ == "__main__":
-    print("🟢 App iniciada. Escuchando escáner...")
+    print("🟢 App iniciada. Verificando servidor...")
+
+    # Verificar conectividad del servidor
+    if not api_client.check_server_health():
+        print("❌ Servidor no disponible. Asegúrate de que esté corriendo.")
+        input("Presiona Enter para continuar de todas formas...")
+    else:
+        print("✅ Servidor conectado correctamente")
+
+    # Iniciar monitor de status
+    status_monitor.start_monitoring()
 
     root = tk.Tk()
     root.withdraw()  # Oculta ventana principal
