@@ -1,0 +1,4 @@
+[3:12:38 PM] 📥 Escaneo encolado: A#01137
+[3:12:38 PM] 👤 Usuario escaneado: 01137
+[3:12:46 PM] 📥 Escaneo encolado: 3136O51R97
+[3:13:02 PM] ✅ Clock Out exitoso en WO 3136

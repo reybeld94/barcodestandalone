@@ -1,0 +1,28 @@
+[12:45:10 PM] 📥 Escaneo encolado: OW#3136
+[12:45:10 PM] ⚠️ Escanee primero su ID de usuario.
+[12:47:40 PM] 📥 Escaneo encolado: A#14400
+[12:47:40 PM] 👤 Usuario escaneado: 14400
+[12:47:43 PM] 📥 Escaneo encolado: 4200O51R66
+[12:47:52 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[12:49:22 PM] 📥 Escaneo encolado: A#14400
+[12:49:22 PM] 👤 Usuario escaneado: 14400
+[12:49:27 PM] 📥 Escaneo encolado: 4200O51R66
+[12:49:36 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[12:49:54 PM] 📥 Escaneo encolado: A#14400
+[12:49:54 PM] 👤 Usuario escaneado: 14400
+[12:49:58 PM] 📥 Escaneo encolado: 4200O51R66
+[12:50:08 PM] ✅ Clock In exitoso en WO 4200
+[12:53:30 PM] 📥 Escaneo encolado: A#14400
+[12:53:30 PM] 👤 Usuario escaneado: 14400
+[12:53:34 PM] 📥 Escaneo encolado: 4200O51R66
+[12:53:49 PM] ✅ Clock Out exitoso en WO 4200
+[12:53:55 PM] 📥 Escaneo encolado: A#14400
+[12:53:55 PM] 👤 Usuario escaneado: 14400
+[12:53:58 PM] 📥 Escaneo encolado: 4200O51R66
+[12:54:08 PM] ✅ Clock In exitoso en WO 4200
+[1:28:33 PM] 📥 Escaneo encolado: A#14400
+[1:28:33 PM] 👤 Usuario escaneado: 14400
+[1:28:43 PM] 📥 Escaneo encolado: A#14400
+[1:28:43 PM] 👤 Usuario escaneado: 14400
+[1:28:46 PM] 📥 Escaneo encolado: 4200O51R66
+[1:28:58 PM] ✅ Clock In exitoso en WO 4200

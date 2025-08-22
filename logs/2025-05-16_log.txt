@@ -1,0 +1,132 @@
+[12:56:27 PM] 🔍 Scanned: geneerratebarbarcodegneerenerator
+[12:56:27 PM] ❌ Código inválido o inesperado
+[12:58:45 PM] 🔍 Scanned: A#A#01137
+[12:58:45 PM] ❌ Código de usuario inválido
+[12:58:45 PM] ❌ Código inválido o inesperado
+[12:58:56 PM] 🔍 Scanned: IW3136O51R74
+[12:58:56 PM] ❌ Código inválido o inesperado
+[12:59:07 PM] 🔍 Scanned: A#01137
+[12:59:07 PM] 🧑 User 01137 ready. Awaiting action...
+[12:59:10 PM] 🔍 Scanned: IW3136O51R74
+[12:59:11 PM] ❌ Clock In falló: ❌ No se encontró ventana con título 'Mie Kiosk'
+[12:59:19 PM] 🔍 Scanned: kiosk
+[12:59:19 PM] ❌ Código inválido o inesperado
+[12:59:45 PM] 🔍 Scanned: A#01137
+[12:59:45 PM] 🧑 User 01137 ready. Awaiting action...
+[12:59:48 PM] 🔍 Scanned: IW3136O51R74
+[12:59:53 PM] 🔍 Scanned: 01137
+[12:59:53 PM] ❌ Código inválido o inesperado
+[1:00:09 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[1:00:16 PM] 🔍 Scanned: 313674OPLaserCuttingOW#3136
+[1:00:16 PM] ❌ Código inválido o inesperado
+[1:00:47 PM] 🔍 Scanned: oyecompadre,ydejamehjaceacerteunapregunta,jajaja
+[1:00:47 PM] ❌ Código inválido o inesperado
+[1:01:49 PM] 🔍 Scanned: nosepudieralimitarel;alaapp,aquesoloescucha,e,unicayexpclusivamentealescanner?
+[1:01:49 PM] ❌ Código inválido o inesperado
+[1:06:57 PM] 🔍 Scanned: esque,mira,relaalmente,quiennecesitadeiferenciasreporvelidocidaddetipeoeswindows,porquelonecesitairriaparalosdos,sinose()nosesiseaposible,,porqueedemomentooyotengoabiertoellkkiosk,yescaeneoalgo,yesoqueescennnie,sevaaaponerencualquierpartedelkioskyvaavaajodertodo,rejrjrmejemploclaro:elkioskoiniciaconelloginvoboxdondesevaaponerelusuario,cuandoyoescanee,elcomandosevaaametemeterahienelloginboxxysevaaaejecutarelcomandoatrasysevaametertodoujuntoyvaadarerror.Nohaydfoirrmadedecirleawinofdows,mira,:ignoral=ttodoloquevengaconnaunavelocidaddetipeotalydedecirleamiappmiraconjetodoloquetengalavelocidadmasrapidadeitipeo,demaneraquelaappasesequedeconelescanerywindowsconelkeyboard
+[1:06:57 PM] ❌ Código inválido o inesperado
+[1:12:40 PM] 🔍 Scanned: okyquepconestemecanismo,quepasasielusuariotienequeponercantidadmanualmetnecnteoconelteclado?
+[1:12:40 PM] ❌ Código inválido o inesperado
+[1:15:03 PM] 🔍 Scanned: hapodemosjacerhacereso,cuandollegueelpasodeponerlacantidad,hbailiabilitamoseltecladoyluegofedequesepongalacantidad,cerramosdedenuevoesapinguetaydseseguimosoconnuestrasecuencoacoaia,.Hastaahiperfecto,pero,qeuepasa,conlaoperaelinputinicial?osea,elretecladosolovaaaestarbloqueadoemisentraslaappestaejecutandounacaccionno,perolaaccioninicial,vaqueactivatodoelprocesoyhacequeeltecladodeseceiierre()queesuncomando,eldelusuario,novaameterloenuninputesaprimeraevez?
+[1:15:03 PM] ❌ Código inválido o inesperado
+[1:16:23 PM] 🔍 Scanned: ok,dcvamosahcaacerloasi,basadoentodoesto,mandamelosarchivosquedebomodicificaryloscamcconloscambiosquedeboahcerhacer
+[1:16:23 PM] ❌ Código inválido o inesperado
+[1:20:11 PM] 🔍 Scanned: enrprocessscanestomeestadandounsresolved:proces
+[1:20:11 PM] ❌ Código inválido o inesperado
+[1:20:31 PM] 🔍 Scanned: voyaprobarlov,pera
+[1:20:31 PM] ❌ Código inválido o inesperado
+[1:21:06 PM] 🔍 Scanned: A#01137
+[1:21:06 PM] 🧑 User 01137 ready. Awaiting action...
+[1:21:28 PM] 🔍 Scanned: IW3136O51R74
+[1:21:43 PM] 🔍 Scanned: A#01137
+[1:21:43 PM] 🧑 User 01137 ready. Awaiting action...
+[1:21:45 PM] 🔍 Scanned: IW3136O51R74
+[1:21:49 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[1:22:01 PM] 🔍 Scanned: A#01137
+[1:22:01 PM] 🧑 User 01137 ready. Awaiting action...
+[1:22:03 PM] 🔍 Scanned: IW3136O51R74
+[1:22:06 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[1:22:24 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[1:37:42 PM] 📥 Escaneo encolado: A#01137
+[1:37:42 PM] 🧑 User 01137 ready. Awaiting action...
+[1:37:47 PM] 📥 Escaneo encolado: IW3136O51R74
+[1:38:08 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[1:40:34 PM] 📥 Escaneo encolado: A#01137
+[1:40:34 PM] 🧑 User 01137 ready. Awaiting action...
+[1:40:36 PM] 📥 Escaneo encolado: IW3136O51R74
+[1:40:57 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[1:42:45 PM] 📥 Escaneo encolado: A#01137
+[1:42:45 PM] 🧑 User 01137 ready. Awaiting action...
+[1:42:50 PM] 📥 Escaneo encolado: IW3136O51R74
+[1:43:11 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[1:43:47 PM] 📥 Escaneo encolado: A#01137
+[1:43:47 PM] 🧑 User 01137 ready. Awaiting action...
+[1:43:49 PM] 📥 Escaneo encolado: IW3136O51R74
+[2:08:40 PM] 📥 Escaneo encolado: A#01137
+[2:08:40 PM] 🧑 User 01137 ready. Awaiting action...
+[2:08:42 PM] 📥 Escaneo encolado: IW3136O51R54
+[2:09:03 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[2:12:27 PM] 📥 Escaneo encolado: A#01137
+[2:12:27 PM] 🧑 User 01137 ready. Awaiting action...
+[2:12:29 PM] 📥 Escaneo encolado: IW3136O51R74
+[2:12:50 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[2:17:27 PM] 📥 Escaneo encolado: A#01137
+[2:17:27 PM] 🧑 User 01137 ready. Awaiting action...
+[2:17:31 PM] 📥 Escaneo encolado: IW3136O51R74
+[2:17:53 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[2:19:51 PM] 📥 Escaneo encolado: A#01137
+[2:19:51 PM] 🧑 User 01137 ready. Awaiting action...
+[2:19:57 PM] 📥 Escaneo encolado: IW3136O51R74
+[2:20:17 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[2:20:56 PM] 📥 Escaneo encolado: A#01137
+[2:20:56 PM] 🧑 User 01137 ready. Awaiting action...
+[2:20:58 PM] 📥 Escaneo encolado: IW3136O51R74
+[2:21:19 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[2:24:52 PM] 📥 Escaneo encolado: A#01137
+[2:24:52 PM] 🧑 User 01137 ready. Awaiting action...
+[2:25:03 PM] 📥 Escaneo encolado: IW3136O51R74
+[2:25:24 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[2:41:51 PM] 📥 Escaneo encolado: A#01137
+[2:41:51 PM] 🧑 User 01137 ready. Awaiting action...
+[2:41:56 PM] 📥 Escaneo encolado: IW3136O51R74
+[2:42:17 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[2:42:39 PM] 📥 Escaneo encolado: A#01137
+[2:42:39 PM] 🧑 User 01137 ready. Awaiting action...
+[2:42:41 PM] 📥 Escaneo encolado: IW3136O51R74
+[2:43:02 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[2:45:52 PM] 📥 Escaneo encolado: A#01137
+[2:45:52 PM] 🧑 User 01137 ready. Awaiting action...
+[2:45:57 PM] 📥 Escaneo encolado: IW3136O51R74
+[2:46:18 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[2:48:11 PM] 📥 Escaneo encolado: A#01137
+[2:48:11 PM] 🧑 User 01137 ready. Awaiting action...
+[2:48:14 PM] 📥 Escaneo encolado: IW3136O51R74
+[2:48:35 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[2:50:30 PM] 📥 Escaneo encolado: A#01137
+[2:50:30 PM] 🧑 User 01137 ready. Awaiting action...
+[2:50:34 PM] 📥 Escaneo encolado: IW3136O51R74
+[2:50:55 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[3:01:36 PM] 📥 Escaneo encolado: A#01137
+[3:01:36 PM] 🧑 User 01137 ready. Awaiting action...
+[3:01:39 PM] 📥 Escaneo encolado: OW#3136
+[3:03:26 PM] 📥 Escaneo encolado: A#01137
+[3:03:26 PM] 🧑 User 01137 ready. Awaiting action...
+[3:03:32 PM] 📥 Escaneo encolado: IW3136O51R74
+[3:03:53 PM] ❌ Clock In falló: ✅ WO Clock In completado
+[3:13:47 PM] 📥 Escaneo encolado: A#01137
+[3:13:47 PM] 🧑 User 01137 ready. Awaiting action...
+[3:13:49 PM] 📥 Escaneo encolado: OW#3136
+[3:13:49 PM] ⌛ Esperando que el operador escriba la cantidad en Kiosk y presione ENTER...
+[3:17:34 PM] 📥 Escaneo encolado: A#01137
+[3:17:34 PM] 🧑 User 01137 ready. Awaiting action...
+[3:17:36 PM] 📥 Escaneo encolado: OW#3136
+[3:18:02 PM] 📥 Escaneo encolado: A#01137
+[3:18:02 PM] 🧑 User 01137 ready. Awaiting action...
+[3:18:04 PM] 📥 Escaneo encolado: OW#3136
+[3:20:45 PM] 📥 Escaneo encolado: A#01137
+[3:20:45 PM] 🧑 User 01137 ready. Awaiting action...
+[3:20:46 PM] 📥 Escaneo encolado: OW#3136
+[3:29:25 PM] 📥 Escaneo encolado: A#01137
+[3:29:25 PM] 🧑 User 01137 ready. Awaiting action...
+[3:29:30 PM] 📥 Escaneo encolado: OW#3136
+[3:29:30 PM] ❌ Error ejecutando comando: hacer_clockout() missing 1 required positional argument: 'qty'
