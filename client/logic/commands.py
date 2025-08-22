@@ -1,7 +1,7 @@
 import re
 from data.log_writer import log_entry
 from utils.modals import show_error_modal
-from client.services.api_client import api_client
+from services.api_client import api_client
 from config import OPERATION_MAP
 import time
 

@@ -8,6 +8,7 @@ def safe_write(text, interval=0.001):
     pyautogui.write(text, interval=interval)
     start_hook(on_key)
 
+
 def safe_press_enter():
     stop_hook()
     pyautogui.press("enter")
@@ -19,7 +20,9 @@ def safe_click(x, y):
     pyautogui.click(x, y)
     start_hook(on_key)
 
+
 def safe_hotkey(*args):
     stop_hook()
     pyautogui.hotkey(*args)
     start_hook(on_key)
+

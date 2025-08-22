@@ -10,7 +10,6 @@ def start_hook(on_key_callback, suppress=True):
         shared_flags.hook_enabled = True
 
 
-
 def stop_hook():
     global hook_listener
     if hook_listener:
