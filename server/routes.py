@@ -1,10 +1,8 @@
 from flask import Blueprint, request, jsonify
-import uuid
 from datetime import datetime
 
 api_bp = Blueprint('api', __name__)
 
-# Para almacenar comandos en memoria (después será una queue)
 commands = {}
 
 @api_bp.route('/health', methods=['GET'])
@@ -19,34 +17,24 @@ def health():
 def clockin_wo():
     try:
         data = request.json
-        
-        # Validar datos requeridos
-        required_fields = ['user_id', 'wo_number', 'operation', 'router_id']
-        for field in required_fields:
-            if field not in data:
-                return jsonify({
-                    'success': False,
-                    'error': f'Campo requerido: {field}'
-                }), 400
-        
-        # Generar ID único para el comando
-        command_id = str(uuid.uuid4())
-        
-        # Simular procesamiento (después será la queue)
-        commands[command_id] = {
-            'status': 'pending',
-            'type': 'clockin-wo',
-            'data': data,
-            'timestamp': datetime.now().isoformat(),
-            'message': 'Comando en cola'
-        }
-        
+
+        from actions.clockin_wo import hacer_clockin_workorder
+
+        result = hacer_clockin_workorder(
+            data['user_id'],
+            data['operation'],
+            data['router_id'],
+            data['wo_number']
+        )
+
+        success = result.startswith("✅")
+
         return jsonify({
-            'success': True,
-            'command_id': command_id,
-            'message': 'Clock In encolado correctamente'
+            'success': success,
+            'message': result,
+            'timestamp': datetime.now().isoformat()
         })
-        
+
     except Exception as e:
         return jsonify({
             'success': False,
@@ -57,34 +45,25 @@ def clockin_wo():
 def clockout():
     try:
         data = request.json
-        
-        # Validar datos requeridos
-        required_fields = ['user_id', 'wo_number']
-        for field in required_fields:
-            if field not in data:
-                return jsonify({
-                    'success': False,
-                    'error': f'Campo requerido: {field}'
-                }), 400
-        
-        # Generar ID único para el comando
-        command_id = str(uuid.uuid4())
-        
-        # Simular procesamiento (después será la queue)
-        commands[command_id] = {
-            'status': 'pending',
-            'type': 'clockout',
-            'data': data,
-            'timestamp': datetime.now().isoformat(),
-            'message': 'Comando en cola'
-        }
-        
+
+        from actions.clockout import hacer_clockout
+
+        qty = data.get('qty', 1.0)
+
+        result = hacer_clockout(
+            data['user_id'],
+            data['wo_number'],
+            qty
+        )
+
+        success = result.startswith("✅")
+
         return jsonify({
-            'success': True,
-            'command_id': command_id,
-            'message': 'Clock Out encolado correctamente'
+            'success': success,
+            'message': result,
+            'timestamp': datetime.now().isoformat()
         })
-        
+
     except Exception as e:
         return jsonify({
             'success': False,
