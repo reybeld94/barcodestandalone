@@ -1,6 +1,6 @@
 import threading
 import time
-from client.services.api_client import api_client
+from services.api_client import api_client
 from data.log_writer import log_entry
 
 class StatusMonitor:

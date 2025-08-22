@@ -11,8 +11,8 @@ import utils.hook_listener as hook_listener
 from utils.hook_control import start_hook
 from utils.hook_listener import on_key
 import sys
-from client.services.status_monitor import status_monitor
-from client.services.api_client import api_client
+from services.status_monitor import status_monitor
+from services.api_client import api_client
 
 ctx = {
     "procesando": False,

@@ -1,7 +1,7 @@
 import requests
 import time
 from datetime import datetime
-from client.config import SERVER_URL, POLL_INTERVAL, COMMAND_TIMEOUT
+from config import SERVER_URL, POLL_INTERVAL, COMMAND_TIMEOUT
 
 class APIClient:
     def __init__(self):
